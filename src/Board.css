@@ -1,0 +1,10 @@
+.status{
+    margin: 10px 0;
+    font-size: x-large;
+}
+
+.board-row {
+    display: flex;
+    height: 60px;
+    width: 180px;
+}

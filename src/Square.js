@@ -1,4 +1,5 @@
 import './Square.css';
+import React from 'react'
 
 class Square extends React.Component {
     constructor(props) {
@@ -19,3 +20,5 @@ class Square extends React.Component {
         );
     }
 }
+
+export default Square;
