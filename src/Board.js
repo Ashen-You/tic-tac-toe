@@ -1,4 +1,5 @@
 import './Board.css';
+import React from 'react'
 
 class Board extends React.Component {
     constructor(props) {
@@ -9,6 +10,10 @@ class Board extends React.Component {
     }
 
     render() {
-        return ();
+        return (
+            <div></div>
+        );
     }
 }
+
+export default Board;
